@@ -4,7 +4,7 @@ An interactive flashcard application for efficient learning and knowledge retent
 **Available translations:**
 - French to English
 
-**How to play:**
+**How it works:**
 - A non-English word will be displayed on the card
 - Try to guess the English translation of the word
 - After 3 seconds, the card will flip to display the English word
